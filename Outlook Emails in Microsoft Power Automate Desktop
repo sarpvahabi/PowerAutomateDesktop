@@ -1,0 +1,27 @@
+Intro
+  As a Power Automate Desktop developer you'll automate a lot of Outlook/email processes.
+
+Learning Objectives
+  The Outlook activities
+  Handle email attachments
+  Save to folder
+  Create an Excel log
+
+Description
+Create two sub-folders in your Outlook Inbox
+  PAD
+  Processed
+
+Download the Project files
+Copy the Sample emails to the PAD sub-folder
+
+Create a Power Automate process, that
+  Process every email in the PAD folder
+  Fill in the Excel sheet Emails.xlsx with the relevant info
+  Move the emails to processed
+  Place attachments in separate folders named with the email id.
+
+Second part
+  Download the Excel book courses.xlsx
+  For each row, send an email with the homework and the deadline.
+  You can use this 10 minute email app: https://10minutemail.com/
